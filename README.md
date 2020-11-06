@@ -1,5 +1,8 @@
 # Favinizer | Favicon Fingerprinting
 
+## Screenshots
+![favinizer](favinizer.png)
+
 ## Instructions for running
 1. Install requirements using `pip3 install -r requirements.txt`.
 2. Run `python3 favinizer.py`.<br>
